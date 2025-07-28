@@ -1,3 +1,0 @@
-openai-agents==0.1.2
-chainlit==1.0.324
-python-decouple==3.8
